@@ -70,7 +70,7 @@ g) `td`     table data
 
 ## Q7 - Usually, `td` elements are children of what kind of elements?
 
-
+    <td> are usually child of the <tr> element
 
 ## Q8 - What is the difference between td and th?
 
