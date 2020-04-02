@@ -7,13 +7,11 @@ Type true/false in the provided [ ].
 
 a) [false] `<div><span>hello</div></span>`
 
-b) [false]
-
-```html
-<ul>
-<li>one</li>
-</ol>
-```
+b) [false]      ```html
+                <ul>
+                <li>one</li>
+                </ol>
+                ```
 
 c) [true] `<ul></ul><img/><ol><li>one</li></ol>`
 
@@ -22,9 +20,13 @@ c) [true] `<ul></ul><img/><ol><li>one</li></ol>`
 
 _Feel free to use the powers of Google here, but please provide link(s) to your source(s)_
 
+    A screenreader is a software application to replicate what is seen on the screen in a non-visual way. 
+    They are useful for the people that are visually impaired.
+    There is a solution for most of the content that we see on a page, whether it's visual, an audio element or another language.
 
-
-
+    Sources:    (https://developer.mozilla.org/en-US/docs/Glossary/Screen_reader)
+                (https://www.wikiwand.com/en/Screen_reader)
+                (https://www.nomensa.com/blog/2005/what-screen-reader)
 
 
 ## Q3 - For each of the following cases, which tags will be needed?
