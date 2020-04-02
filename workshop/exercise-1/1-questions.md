@@ -43,9 +43,7 @@ c) You want to sell designer hats. You need to receive orders from the user.
 
 ## Q4 - Can a button be a child of a button? Explain your reasoning
 
-
-
-
+    Yes, the button is not a self-closing tag. We can insert a button inside another button.
 
 
 ## Q5 - What is the most generic tag you can use?
