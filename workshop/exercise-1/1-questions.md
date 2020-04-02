@@ -53,19 +53,19 @@ c) You want to sell designer hats. You need to receive orders from the user.
 
 ## Q6 - What do the following achronyms stand for?
 
-a) `a`
+a) `a`      anchor
 
-b) `ol`
+b) `ol`     ordered list
 
-c) `ul`
+c) `ul`     unordered list
 
-d) `li`
+d) `li`     list item
 
-e) `tr`
+e) `tr`     table row
 
-f) `th`
+f) `th`     table head
 
-g) `td`
+g) `td`     table data
 
 
 ## Q7 - Usually, `td` elements are children of what kind of elements?
