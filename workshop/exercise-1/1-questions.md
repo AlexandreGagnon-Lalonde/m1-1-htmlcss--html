@@ -48,7 +48,7 @@ c) You want to sell designer hats. You need to receive orders from the user.
 
 ## Q5 - What is the most generic tag you can use?
 
-
+    <div> is the most generic tag, you can play around with it and make it do everything you want.
 
 
 ## Q6 - What do the following achronyms stand for?
