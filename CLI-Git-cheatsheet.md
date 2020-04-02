@@ -21,7 +21,7 @@ In VS Code, press ctrl+shift+P (or cmd+shift+P) to open the command palette. Typ
 After this is done, you can use the following command:
 
 - `code [directory]` - opens the specified directory in VS Code
-  - `code .` opens the current directory
+- `code .` opens the current directory
 
 ---
 
