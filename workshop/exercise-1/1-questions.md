@@ -74,25 +74,30 @@ g) `td`     table data
 
 ## Q8 - What is the difference between td and th?
 
+    <td> contains the data of a table and <th> contains the heading section of a table.
 
+    <th> <th> <th>
+    <th> <td> <td>
+    <th> <td> <td>
 
 ## Q9 - Which tag makes the text appear bigger: h1 or h3?
 
-
+    h1
 
 ## Q10 - In which situation can you use self closing tags?
 
-
+    When the tag you need to use is self closing.
 
 ## Q11 - What is autofilling and why is it important?
 
-
+    Autofill is when you start typing a word and it opens a window with all the options possible with your first few letters.
+    It can be really useful when you have to write something complicated or when you have to write the same word multiple times.
 
 ## Q12 - Which attributes are always present in an img element?
 
-
+    src="" and alt=""
 
 ## Q13 - Which attribute is always present for an anchor tag?
 
-
+    href=""
 
