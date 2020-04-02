@@ -32,13 +32,13 @@ _Feel free to use the powers of Google here, but please provide link(s) to your 
 ## Q3 - For each of the following cases, which tags will be needed?
 
 a) You want to create a webpage with the photos from your latest vacation
-
+    <img> - <figcaption>
 
 b) You want to create a website that lists all the art gallery websites in your city and links to their website.
-
+    <ul> - <li> - <a>
 
 c) You want to sell designer hats. You need to receive orders from the user.
-
+    <form> - <select> - <option> - <input> - <button type="submit">
 
 
 ## Q4 - Can a button be a child of a button? Explain your reasoning
