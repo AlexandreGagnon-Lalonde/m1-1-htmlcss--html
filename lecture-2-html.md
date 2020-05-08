@@ -34,14 +34,12 @@
 ```HTML
 <!DOCTYPE html>
 <html>
-
   <head>
     <title>A Basic HTML Template</title>
   </head>
   <body>
     <!-- all content here -->
   </body>
-
 </html>
 ```
 
